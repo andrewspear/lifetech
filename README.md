@@ -1,1 +1,3 @@
-# lifetech
+# LifeTech
+
+LifeTech landing page
