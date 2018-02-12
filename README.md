@@ -1,3 +1,3 @@
 # LifeTech
 
-LifeTech landing page
+A landing page for the LifeTech community.
